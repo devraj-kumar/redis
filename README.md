@@ -1,4 +1,4 @@
-# Redis Management Script
+# Redis Management Tool
 
 ## Overview
 
