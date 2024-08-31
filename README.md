@@ -24,5 +24,5 @@ This Bash script is a comprehensive tool for managing Redis installations and co
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/redis-management-script.git
-cd redis-management-script
+https://github.com/devraj-kumar/redis
+cd redis
