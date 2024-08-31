@@ -26,3 +26,5 @@ This Bash script is a comprehensive tool for managing Redis installations and co
 ```bash
 https://github.com/devraj-kumar/redis
 cd redis
+chmod +x redis_setup.sh
+./redis_setup.sh
